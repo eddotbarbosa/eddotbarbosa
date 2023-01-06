@@ -1,10 +1,8 @@
-<h1 align="left">Hi, I'm Eduardo Barbosa!👋</h1>
+<h1 align="left">Hey there!👋</h1>
 
 ###
 
-<br clear="both">
 
-<img align="right" height="200" src="https://i.pinimg.com/originals/29/5d/ba/295dba78f8e4148215611aab4e03f93a.gif"  />
 
 ###
 
