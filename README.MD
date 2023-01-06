@@ -1,11 +1,5 @@
 <h1 align="left">Hey there!👋</h1>
 
-###
-
-
-
-###
-
 <p align="left">My name is Eduardo Barbosa, I'm from Brazil, I'm a full stack javascript developer but I also have knowledge in areas such as graphic design, audio production and video production.</p>
 
 ###
@@ -54,12 +48,3 @@
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="42" height="30" alt="linkedin logo"  />
   </a>
 </div>
-
-###
-
-<div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?hide_title=true&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=tokyonight&locale=en&hide_border=false&username=eddotbarbosa" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?locale=en&hide_title=true&layout=compact&card_width=320&langs_count=5&theme=tokyonight&hide_border=false&username=eddotbarbosa" height="150" alt="languages graph"  />
-</div>
-
-###
